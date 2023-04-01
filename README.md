@@ -1,2 +1,2 @@
 # KISS Ultra Wiki
-[Click here for the wiki](https://github.com/KissUltra/wiki/wiki/Welcome-to-ULTRA!)
+[Click here for the wiki](https://github.com/KissUltra/wiki/wiki/)
